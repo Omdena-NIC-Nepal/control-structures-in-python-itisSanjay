@@ -1,0 +1,1 @@
+def test_multiplication_table(capsys):
